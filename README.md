@@ -47,10 +47,6 @@ The dataset used in this analysis is sourced from [Kaggle]. It contains informat
 - Analyzed categorical variables affecting churn.
 [Categorical Analysis]
 (![Untitled](https://github.com/user-attachments/assets/1e0aa4b6-f221-4df3-bad9-3e5e8d127e03)
-
-### Checking the total charges by monthly charges
-- Checeking the relation between monthly and total charges relationship
-- ![Untitled](https://github.com/user-attachments/assets/c03108fe-54db-464a-89ed-6a6460de8eb4)
 - ![Untitled](https://github.com/user-attachments/assets/27240e70-5dbc-4efb-bc7b-1d914c36c330)
 - ![Untitled](https://github.com/user-attachments/assets/e8478c96-77a9-4bf4-80dc-f983b6ccc74a)
 - ![Untitled](https://github.com/user-attachments/assets/e991fc72-0aec-4d32-bac7-2b12c75baecc)
@@ -67,6 +63,10 @@ The dataset used in this analysis is sourced from [Kaggle]. It contains informat
 - ![Untitled](https://github.com/user-attachments/assets/73618285-6915-43e5-882c-30fbea3a4374)
 - ![Untitled](https://github.com/user-attachments/assets/a4af592a-5964-43a7-bf3d-9ff7744ea91c)
 - ![Untitled](https://github.com/user-attachments/assets/34c2f2f6-5759-47b2-8ec6-b8b0f2eea41c)
+
+### Checking the total charges by monthly charges
+- Checeking the relation between monthly and total charges relationship
+- ![Untitled](https://github.com/user-attachments/assets/c03108fe-54db-464a-89ed-6a6460de8eb4)
 
 ### Effect of Monthly charges on Churning
 - Lets See if monthly charges effect the customer to churn or not
