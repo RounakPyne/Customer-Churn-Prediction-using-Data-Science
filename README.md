@@ -31,7 +31,10 @@ The dataset used in this analysis is sourced from [Kaggle]. It contains informat
 ## Exploratory Data Analysis
 ### Data Cleaning
 - Handled missing values in the `TotalCharges` column.
+- # Checking which rows have null values
+   - df.loc[df['TotalCharges'].isnull() == True]
 - Converted data types for analysis.
+-    Converted TotalCharges column from object to float64
 
 ### Churn Distribution
 - Visualizing churn rates.
