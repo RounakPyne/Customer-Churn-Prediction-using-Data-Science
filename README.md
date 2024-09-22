@@ -25,7 +25,7 @@ The dataset used in this analysis is sourced from [Kaggle]. It contains informat
 - **TotalCharges**: Total charges incurred by the customer
 
 ### Sample Data
-![Sample Data](![image](https://github.com/user-attachments/assets/a3a4d4fd-b5c5-441d-92e9-4fcb7c417601)
+(![image](https://github.com/user-attachments/assets/a3a4d4fd-b5c5-441d-92e9-4fcb7c417601)
 )
 
 ## Exploratory Data Analysis
@@ -35,12 +35,12 @@ The dataset used in this analysis is sourced from [Kaggle]. It contains informat
 
 ### Churn Distribution
 - Visualizing churn rates.
-![Churn Distribution](![Untitled](https://github.com/user-attachments/assets/96e2ee50-a6ab-4ced-84f4-e51fedc7af71)
+(![Untitled](https://github.com/user-attachments/assets/96e2ee50-a6ab-4ced-84f4-e51fedc7af71)
 )
 
 ### Tenure Analysis
 - Grouped customers by tenure and analyzed churn rates.
-![Tenure Analysis](![Untitled](https://github.com/user-attachments/assets/0abff0bc-0616-4fef-8659-2539a4a68467)
+(![Untitled](https://github.com/user-attachments/assets/0abff0bc-0616-4fef-8659-2539a4a68467)
 )
 
 ### Categorical Variables
