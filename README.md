@@ -111,5 +111,17 @@ Hence, all these 3 factors viz Higher Monthly Charge, Lower tenure and Lower Tot
 ## Next Steps
 - Conduct further analyses to identify additional retention strategies.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## **License**
+
+This project is licensed under the MIT License - see the [Apache2.0](LICENSE) file for details.
+
+---
+
+## **Contact**
+
+For any questions, feel free to reach out:
+
+- **Name**: Rounak Pyne
+- **Email**: rounakpyne.official@gamil.com
+
+---
